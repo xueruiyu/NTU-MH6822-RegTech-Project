@@ -1,4 +1,4 @@
 # NTU-MH6822-RegTech-Project
-name: Yu Xuerui
-matriculation ID: G2505243G
-email address: XUERUI002@e.ntu.edu.sg
+Name: Yu Xuerui
+Matriculation ID: G2505243G
+Email address: XUERUI002@e.ntu.edu.sg
